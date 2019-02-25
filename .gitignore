@@ -33,3 +33,4 @@
 /vendor/jquery/jquery.slim.js
 /vendor/jquery/jquery.js
 /vendor/jquery-easing/jquery.easing.js
+*.code-workspace
